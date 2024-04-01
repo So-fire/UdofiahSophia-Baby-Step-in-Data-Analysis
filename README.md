@@ -1,1 +1,14 @@
 # UdofiahSophia-Baby-Step-in-Data-Analysis
+
+----
+# PROJECT OBJECTIVE
+
+
+# DATA SOURCING
+
+
+# DATA TRANSFORMATION
+
+
+# FINDINGS AND RECOMMENDATIONS
+
